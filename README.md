@@ -12,7 +12,7 @@
 
 **Authors:**
 
-  + Alicia Garcia-Roldan 
+  + Alicia García-Roldán 
   + Taylor Priest
   + Fernando Puente-Sánchez
   + Rafael R. de la Haba
